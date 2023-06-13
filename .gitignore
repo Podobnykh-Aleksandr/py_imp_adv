@@ -1,0 +1,4 @@
+.idea/
+homework/
+application/__pycache__
+application/db/__pycache__
